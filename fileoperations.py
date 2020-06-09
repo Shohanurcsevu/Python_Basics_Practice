@@ -3,7 +3,7 @@
 # print(content)
 # print(content)
 
-with open("fruits.txt") as myfile:
+with open("files/fruits.txt") as myfile:
     content = myfile.read()
     
     
